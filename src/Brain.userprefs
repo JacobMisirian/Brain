@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Brain/Debugger.cs">
+    <Files>
+      <File FileName="Brain/Interpreter.cs" Line="54" Column="26" />
+      <File FileName="BrainDebuggerClient/Program.cs" Line="35" Column="42" />
+      <File FileName="Brain/Debugger.cs" Line="20" Column="38" />
+      <File FileName="Brain/Program.cs" Line="12" Column="96" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
